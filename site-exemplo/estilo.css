@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div-login {
+    width: 300px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin: 0  auto;
+}
